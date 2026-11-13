@@ -1,0 +1,1 @@
+python coco_runner_one.py --dataset voc-lt --num-classes 20 --alpha 0.4 -b 16 --topk 16 --lr 1e-5 --epochs 30 --use_logit --use_gtn
